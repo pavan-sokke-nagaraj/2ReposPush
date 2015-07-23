@@ -6,3 +6,5 @@ configure both urls in .git/config
 	
 	
 	url = C:\\Users\\psokke\\GIT\\2ReposPush.git
+	
+	git 
