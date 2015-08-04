@@ -1,0 +1,4 @@
+[submodule "GitSubmodules"]
+	path = GitSubmodules
+	url = https://github.com/pavansn/GitSubmodules.git
+	branch = Developer1
